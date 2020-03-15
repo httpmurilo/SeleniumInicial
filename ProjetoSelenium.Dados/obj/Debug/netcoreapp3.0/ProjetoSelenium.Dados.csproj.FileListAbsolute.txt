@@ -1,0 +1,13 @@
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\bin\Debug\netcoreapp3.0\ProjetoSelenium.Dados.deps.json
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\bin\Debug\netcoreapp3.0\ProjetoSelenium.Dados.runtimeconfig.json
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\bin\Debug\netcoreapp3.0\ProjetoSelenium.Dados.runtimeconfig.dev.json
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\bin\Debug\netcoreapp3.0\ProjetoSelenium.Dados.dll
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\bin\Debug\netcoreapp3.0\ProjetoSelenium.Dados.pdb
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\bin\Debug\netcoreapp3.0\ProjetoSelenium.Core.dll
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\bin\Debug\netcoreapp3.0\ProjetoSelenium.Core.pdb
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\obj\Debug\netcoreapp3.0\ProjetoSelenium.Dados.csprojAssemblyReference.cache
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\obj\Debug\netcoreapp3.0\ProjetoSelenium.Dados.AssemblyInfoInputs.cache
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\obj\Debug\netcoreapp3.0\ProjetoSelenium.Dados.AssemblyInfo.cs
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\obj\Debug\netcoreapp3.0\ProjetoSelenium.Dados.csproj.CopyComplete
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\obj\Debug\netcoreapp3.0\ProjetoSelenium.Dados.dll
+C:\Users\murilo.melo\Desktop\Murilo\2020\ProjetoSelenium\ProjetoSelenium.Dados\obj\Debug\netcoreapp3.0\ProjetoSelenium.Dados.pdb
